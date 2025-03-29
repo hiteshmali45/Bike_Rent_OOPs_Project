@@ -28,25 +28,11 @@ This project is an OOP-based Bike Rental System, designed and implemented in Pyt
   - Handles user input, rental process, and displays options for users.
 
 ## How to Run the Project
+Clone this repository: git clone https://github.com/hiteshmali45/Bike_Rent_OOPs_Project
 
-1. **Prerequisites**:
-   - Python 3.x installed on your machine.
+Open the Jupyter Notebook: jupyter notebook Bike_Rent_OOPs_Project.ipynb
 
-2. **Clone or Download the Repository**:
-   ```
-   git clone https://github.com/hiteshmali45/Bike_Rent_OOPs_Project
-   ```
-
-3. **Navigate to the Project Directory**:
-   ```
-   cd bike-rental-system
-   ```
-
-4. **Run the Python Script**:
-   ```
-   python main.py
-   ```
-
+Follow the steps in the notebook to run the solution and understand the logic.
 ## Example Usage
 When you run the project, you will be presented with a menu of options:
 

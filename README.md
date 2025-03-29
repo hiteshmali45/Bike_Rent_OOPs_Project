@@ -34,7 +34,7 @@ This project is an OOP-based Bike Rental System, designed and implemented in Pyt
 
 2. **Clone or Download the Repository**:
    ```
-   git clone <repository-url>
+   git clone https://github.com/hiteshmali45/Bike_Rent_OOPs_Project/edit/main/README.md
    ```
 
 3. **Navigate to the Project Directory**:
